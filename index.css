@@ -1,0 +1,46 @@
+body {
+  margin: 0;
+  display: flex;
+  place-items: center;
+  min-width: 320px;
+  min-height: 100vh; 
+}
+
+th {
+  width: 120px;
+  padding-top:25px;
+  padding-bottom:30px;
+}
+
+td {
+  padding: 5px;
+}
+
+.time {
+  height: 40px;
+}
+
+/* Event component styles */
+.Event {
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin: 10px;
+  border-radius: 5px;
+  background-color: #fff; 
+}
+
+/* Green class styles */
+.green {
+  background-color: #90EE90; 
+  color: #333; 
+}
+
+.blue {
+  background-color: #8ac4ff; 
+  color: #fff; 
+}
+
+/* Green class styles */
+.pink {
+  background-color: #F8C8DC;
+}
